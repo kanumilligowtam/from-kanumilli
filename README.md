@@ -33,7 +33,7 @@ I mostly like **Biriyani** here,it has different types of Biriyani.Its very famo
 ## Favourite Quotes
 
 
->He who is not satisfied with a little,is satisfied with nothing. - *Epicurus*
+>He who is not satisfied with a little,is satisfied with nothing. - *Epicurus*<br>
 >Good things take time. -*John Wooden*
 
 ---
