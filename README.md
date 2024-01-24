@@ -17,3 +17,13 @@ I mostly like **Biriyani** here,it has different types of Biriyani.Its very famo
 * Lakshmi narayana theater
 
 [my media link](https://github.com/kanumilligowtam/from-kanumilli/blob/f1233d20979a014399a3e20c65e2cefd86dd55b2/MyMedia.md)
+
+
+-----
+
+## Recommended books
+
+|Books|Reason|Writer|
+|Atomic habits|It helps a person in building good habits and breaking bad ones|James clear|
+|Ramayana|It tells the story of lord "Rama" who  saves his kidnapped wife Sita|Valmiki|
+|Harry potter|It tells the story of a kid in fantasized wizard world|J.K.Rowling|
