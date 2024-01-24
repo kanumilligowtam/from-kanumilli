@@ -43,4 +43,4 @@ I mostly like **Biriyani** here,it has different types of Biriyani.Its very famo
 const countOccurrences = (arr, val) => arr.reduce((a, v) => (v === val ? a + 1 : a), 0);
 
 ```
-link to referance <https://code.pieces.app/collections/javascript>
+link to reference <https://code.pieces.app/collections/javascript>
