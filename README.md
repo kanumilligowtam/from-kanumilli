@@ -44,3 +44,6 @@ const countOccurrences = (arr, val) => arr.reduce((a, v) => (v === val ? a + 1 :
 
 ```
 link to reference <https://code.pieces.app/collections/javascript>
+
+
+# Hi There👌 
