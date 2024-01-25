@@ -39,6 +39,9 @@ I mostly like **Biriyani** here,it has different types of Biriyani.Its very famo
 ---
 
 ## Code Fencing
+
+JavaScript snippet to count the occurrences of a value in an array
+
 ```
 const countOccurrences = (arr, val) => arr.reduce((a, v) => (v === val ? a + 1 : a), 0);
 
